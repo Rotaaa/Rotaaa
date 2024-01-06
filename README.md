@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Matheus Rota, sou um Programador Front End, atualemente estou aprendendo e criando projetos com:
+Eu sou o Matheus Rota, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
