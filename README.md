@@ -4,8 +4,9 @@ Eu sou o Matheus Rota, sou um Programador Front End, atualmente estou aprendendo
 <br>
 <br>
 
-- HTML :skull:
-- CSS :art:
+- HTML 
+- CSS 
+- JavaScript 
 <br>
 <strong>Conecte-se comigo<strong>
 <br>
